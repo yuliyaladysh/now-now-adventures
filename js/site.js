@@ -14,7 +14,7 @@ function setLang(l){if(!T[l])l="en";lang=l;var d=T[l];document.documentElement.l
  var rl=document.querySelector("[name=reply_language]");if(rl)rl.selectedIndex={en:0,es:1,ru:2}[l];
  syncQdLinks();if(qdDlg&&qdDlg.open&&qdFrame){var s=qdUrl();if(qdFrame.getAttribute("src")!==s)qdFrame.src=s;}try{localStorage.setItem("nn-lang",l)}catch(e){}}
 document.querySelectorAll(".langs button").forEach(function(b){b.addEventListener("click",function(){setLang(b.dataset.lang)})});
-var QD_BASE="https://safrilo-xfactor.vercel.app/start.html?lang=";
+var QD_BASE="https://yuliyaladysh.github.io/travel-ai/start.html?lang=";
 function qdLang(){return lang==="ru"?"ru":"en"}
 function qdUrl(){return QD_BASE+qdLang()}
 function syncQdLinks(){document.querySelectorAll("a[data-qd]").forEach(function(a){a.href=qdUrl()})}
