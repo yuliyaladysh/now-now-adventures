@@ -17,7 +17,7 @@ document.querySelectorAll(".langs button").forEach(function(b){b.addEventListene
 var QD_BASE="https://yuliyaladysh.github.io/travel-ai/start.html?lang=";
 function qdLang(){return lang==="ru"?"ru":"en"}
 function qdUrl(){return QD_BASE+qdLang()}
-function syncQdLinks(){document.querySelectorAll("a[data-qd]").forEach(function(a){a.href=qdUrl()})}
+function syncQdLinks(){document.querySelectorAll("a[data-qd]").forEach(function(a){a.href=qdUrl()});document.querySelectorAll("iframe[data-qd-live]").forEach(function(f){var u=qdUrl();if(f.getAttribute("src")!==u)f.setAttribute("src",u)})}
 var qdDlg=document.getElementById("qd"),qdFrame=document.getElementById("qdFrame");
 function openQd(e){if(e)e.preventDefault();if(!qdDlg||!qdDlg.showModal){window.open(qdUrl(),"_blank","noopener");return}var s=qdUrl();if(qdFrame.getAttribute("src")!==s)qdFrame.src=s;qdDlg.showModal();}
 document.querySelectorAll("[data-qd]").forEach(function(el){el.addEventListener("click",openQd)});

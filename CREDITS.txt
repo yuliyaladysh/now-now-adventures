@@ -4,9 +4,6 @@ img/hero.webp, img/hero-1280.webp, img/hero.jpg, img/hero-1280.jpg, img/hero-m.w
 AI hero and social image:
 img/ai-hero.webp, img/ai-hero-1280.webp, img/ai-hero.jpg, img/ai-hero-1280.jpg, img/ai-hero-m.webp, img/ai-hero-m.jpg, img/og-ai.jpg — “Luxury Outdoor Patio at Modern Safari Lodge” by Magda Ehlers, Pexels, https://www.pexels.com/photo/luxury-outdoor-patio-at-modern-safari-lodge-37790193/ (Pexels License, free for commercial use: https://www.pexels.com/license/)
 
-Travel AiGent preview (cropped, prices and contact details omitted):
-img/quotedesk-preview.webp, img/quotedesk-preview.jpg — screenshot of the Travel AiGent demo (start.html)
-
 Other photos from Wikimedia Commons (resized; see each file page for author/licence):
 img/full-package.webp — File:Sabi sabi game drive.jpg (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Sabi_sabi_game_drive.jpg
 img/guides.webp — File:Zazu the dog on Lion's Head mountain 17.jpg (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Zazu_the_dog_on_Lion's_Head_mountain_17.jpg
