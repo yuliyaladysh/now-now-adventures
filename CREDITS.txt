@@ -2,7 +2,7 @@ Travel hero and social image:
 img/hero.webp, img/hero-1280.webp, img/hero.jpg, img/hero-1280.jpg, img/hero-m.webp, img/hero-m.jpg, img/og.jpg — “Scenic view of Cape Peninsula in South Africa” by jade xie, Pexels, https://www.pexels.com/photo/scenic-view-of-cape-peninsula-in-south-africa-33285931/ (Pexels License, free for commercial use: https://www.pexels.com/license/)
 
 AI hero and social image:
-img/ai-hero.webp, img/ai-hero-1280.webp, img/ai-hero.jpg, img/ai-hero-1280.jpg, img/ai-hero-m.webp, img/ai-hero-m.jpg, img/og-ai.jpg — “Luxury Outdoor Patio at Modern Safari Lodge” by Magda Ehlers, Pexels, https://www.pexels.com/photo/luxury-outdoor-patio-at-modern-safari-lodge-37790193/ (Pexels License, free for commercial use: https://www.pexels.com/license/)
+img/ai-hero.webp, img/ai-hero-1280.webp, img/ai-hero.jpg, img/ai-hero-1280.jpg, img/ai-hero-m.webp, img/ai-hero-m.jpg, img/og-ai.jpg — photo by Hu Chen, Unsplash, https://unsplash.com/photos/0LwfbRtQ-ac (Unsplash License, free for commercial use: https://unsplash.com/license)
 
 Other photos from Wikimedia Commons (resized; see each file page for author/licence):
 img/full-package.webp — File:Sabi sabi game drive.jpg (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Sabi_sabi_game_drive.jpg

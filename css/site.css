@@ -46,7 +46,7 @@ h1,h2,h3{font-family:var(--head);font-weight:600;line-height:1.1;margin:0}
 .hero picture{position:absolute;inset:0;width:100%;height:100%;overflow:hidden}
 .hero picture img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:scale(1);transform-origin:50% 50%;animation:hero-zoom 28s ease-out forwards}
 .hero-travel picture img{object-position:center 48%}
-.hero-ai picture img{object-position:center 68%}
+.hero-ai picture img{object-position:center 45%}
 @keyframes hero-zoom{from{transform:scale(1)}to{transform:scale(1.06)}}
 .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,15,25,.08) 0%,rgba(10,15,25,.16) 42%,rgba(10,15,25,.40) 74%,rgba(10,15,25,.60) 100%)}
 .hero .wrap{position:relative;z-index:2;padding-bottom:56px;padding-top:80px}
@@ -160,7 +160,7 @@ form .btn{width:100%}
   .hero{min-height:72vh}
   .hero .wrap{padding-bottom:40px}
   .hero-travel picture img{object-position:center 50%}
-  .hero-ai picture img{object-position:center 62%}
+  .hero-ai picture img{object-position:center 45%}
   .ai-top{grid-template-columns:1fr;gap:20px;margin-bottom:24px}
   .qd-preview{aspect-ratio:4/3;max-height:260px}
   .qd-live iframe{width:200%;height:200%;transform:scale(.5)}
